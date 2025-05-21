@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+.env
+
+# Web App
+web/node_modules/
+
+# Backend
+server/node_modules/
+
+# React Native (Expo)
+mobile/mobile-app/node_modules/
+mobile/mobile-app/.expo/
+mobile/mobile-app/.expo-shared/
